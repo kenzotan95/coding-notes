@@ -115,11 +115,3 @@ Most of these can be read through in under an hour, and they're pitched at the b
 ## Credits
 
 All credits and sources are listed inside the tutorials and references themselves.
-
-
-
-```
-                            .     .
-                         .  |\-^-/|  .    
-                        /| } O.=.O { |\
-```
